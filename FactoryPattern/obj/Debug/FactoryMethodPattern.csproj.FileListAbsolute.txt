@@ -1,0 +1,11 @@
+D:\SourceCode\5DesignPatterns\5DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\SourceCode\5DesignPatterns\5DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\SourceCode\5DesignPatterns\5DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\SourceCode\5DesignPatterns\5DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\SourceCode\5DesignPatterns\5DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\SourceCode\C#\CSharp\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\SourceCode\C#\CSharp\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\SourceCode\C#\CSharp\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\SourceCode\C#\CSharp\FactoryPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+D:\SourceCode\C#\CSharp\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\SourceCode\C#\CSharp\FactoryPattern\obj\Debug\FactoryPattern.pdb

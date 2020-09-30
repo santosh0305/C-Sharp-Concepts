@@ -1,0 +1,12 @@
+D:\SourceCode\5DesignPatterns\5DesignPatterns\5DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\SourceCode\5DesignPatterns\5DesignPatterns\5DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\SourceCode\5DesignPatterns\5DesignPatterns\5DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\SourceCode\5DesignPatterns\5DesignPatterns\5DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+D:\SourceCode\5DesignPatterns\5DesignPatterns\5DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\SourceCode\5DesignPatterns\5DesignPatterns\5DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.pdb
+D:\SourceCode\C#\CSharp\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\SourceCode\C#\CSharp\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\SourceCode\C#\CSharp\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\SourceCode\C#\CSharp\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+D:\SourceCode\C#\CSharp\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\SourceCode\C#\CSharp\SingletonPattern\obj\Debug\SingletonPattern.pdb

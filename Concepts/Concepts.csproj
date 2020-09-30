@@ -46,6 +46,7 @@
     <Compile Include="Collections\HashTable.cs" />
     <Compile Include="Collections\Hastable.cs" />
     <Compile Include="Collections\LinkedList.cs" />
+    <Compile Include="Collections\List.cs" />
     <Compile Include="Collections\Queue.cs" />
     <Compile Include="Collections\Stack.cs" />
     <Compile Include="DependencyInjection\Autofac.cs" />
@@ -90,6 +91,9 @@
     <Compile Include="Tuples.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Yeild.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataStructures\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
